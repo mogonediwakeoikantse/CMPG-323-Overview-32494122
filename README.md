@@ -6,7 +6,7 @@ The .gitignore is used to ignore certain files that should not be available for 
 ###### Repositories
 Each project is expected to have its own repository. There are 5 projects in total. Project one has been added under the repository "CMPG-323-Overview". The other remaining repositories for the projects may simply be linked to this main repository. 
 ###### Diagram
-The diagram below basically illustrates how CMPG-323-Overview is the main repository which will consist of all 5 projects. Each project will then have its own specific repository created, of which the repository will then be linked to that specific project.
+The diagram below basically illustrates how CMPG-323-Overview is the main repository which will consist of all 5 projects. Each project will then have its own specific repository created, of which the repository will then be linked to that specific project. Basically, you can access all the different projects through the overview, or you can access each individual project through its own repository.
 
 --
 
