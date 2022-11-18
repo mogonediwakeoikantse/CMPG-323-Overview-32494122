@@ -68,3 +68,15 @@ The functions in UIPATH operate to read data from the excel document, and the da
 ###### * GIT
 ###### * Github
 ###### * Browser(preferably Chrome)
+
+# Project5
+CMPG323 project 5 based on Power BI
+
+## What is Power BI
+Power BI is a data visualization software product which was developed by Microsoft. The software primarily focuses on business intelligence. The software provides a user with plenty of different visualization features in which data can be interpreted and analyzed to make important business decisions.
+
+# Summary
+The overall summary of this overview is to display a brief glimpse of each project that was covered through the semester. Most of the details are located in the readme files of each individual project. As specified in the above information, each repository is linked to a specific project which contains the necessary steps that were covered during the process of creating the projects. 
+
+#### License
+All the above projects make use of an MIT License. 
