@@ -17,3 +17,10 @@ The diagram below basically illustrates how CMPG-323-Overview is the main reposi
 Credentials will be managed by using the gitignore setup. The objective is that those files are to be ignored as they contain sensitive information such as log in details, which should be kept private. 
 ###### Branching Strategy
 In each project, different branches namely, main, develop, feature, hotfix and release will be created. The idea with this is that the work done on a project can be seperated or isolated into a specific branch, for example the main branch can include all the work from other branches, and the hotfix branch will include fixes or edits that have been completed.
+
+# Project 2
+This repository consists of project 2.
+
+### Project 2 Description
+Project 2 is based on cloud computing. An API project was created on Visual Studio 2019 using .Net framework tools, and swagger end points.
+<br />The project basically links a database to a website where a client would want to perform REST(Create, Update, Delete, Retrieve) operations.
