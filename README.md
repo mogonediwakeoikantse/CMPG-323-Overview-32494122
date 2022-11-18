@@ -23,4 +23,5 @@ This repository consists of project 2.
 
 ### Project 2 Description
 Project 2 is based on cloud computing. An API project was created on Visual Studio 2019 using .Net framework tools, and swagger end points.
-<br />The project basically links a database to a website where a client would want to perform REST(Create, Update, Delete, Retrieve) operations.
+<br />The project basically links a database to a website where a client would want to perform REST(Create, Update, Delete, Retrieve) operations. 
+This project also consists of a database, of which a connection string is used for connection. 
